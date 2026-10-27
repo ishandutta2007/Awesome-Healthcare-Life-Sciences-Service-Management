@@ -130,72 +130,72 @@ Explore battle-tested open-source repositories for self-hosted hospital informat
 
 ### Open-Source Solutions Ranking
 
-*Ranked descending by GitHub star count.*
+*Ranked descending by GitHub Stars_Count.*
 
-| 🏆 Repository | ⭐ GitHub Star Badge | 💻 Tech Stack | 📜 License | 🩺 Primary Healthcare Function |
+| 🏆 Repository | ⭐ GitHub Stars_Badge | 💻 Tech Stack | 📜 License | 🩺 Primary Healthcare Function |
 | :--- | :--- | :--- | :--- | :--- |
-| **[HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)** | [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers) | TypeScript, React, PouchDB | MIT | Offline-first hospital information system for rural & low-resource clinics |
-| **[OpenEMR](https://github.com/openemr/openemr)** | [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) | PHP, JavaScript, MySQL | GPL-2.0 | Complete ONC-certified EHR, practice management, billing, and patient portal |
-| **[Medplum](https://github.com/medplum/medplum)** | [![GitHub stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers) | TypeScript, Node.js, Postgres | Apache-2.0 | Headless FHIR-native healthcare developer platform, clinical UI & patient portal |
-| **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** | [![GitHub stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers) | Java, Spring, Hibernate | Apache-2.0 | Reference open-source HL7 FHIR standard implementation & data integration server |
-| **[OpenMRS Core](https://github.com/openmrs/openmrs-core)** | [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers) | Java, Spring, React | MPL-2.0 | Global enterprise medical record system deployed across 40+ countries |
-| **[Open Hospital](https://github.com/informatici/openhospital)** | [![GitHub stars](https://img.shields.io/github/stars/informatici/openhospital?style=social&color=white)](https://github.com/informatici/openhospital/stargazers) | Java, Spring Boot, Angular | GPL-3.0 | Multi-language hospital management for outpatient, inpatient, lab, & pharmacy |
-| **[Marley Health](https://github.com/earthians/marley)** | [![GitHub stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers) | Python, Frappe, ERPNext | GPL-3.0 | ERP-integrated hospital management covering clinical procedures, labs, and billing |
-| **[DHIS2 Core](https://github.com/dhis2/dhis2-core)** | [![GitHub stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers) | Java, Spring, PostgreSQL | BSD-3-Clause | National health information management system, routine data, and disease tracker |
-| **[OHDSI Atlas](https://github.com/OHDSI/Atlas)** | [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers) | JavaScript, R, OMOP CDM | Apache-2.0 | Life sciences real-world evidence (RWE), cohort creation, and clinical trial studies |
-| **[VITALIt OS](https://github.com/basedavishkar/vitalit-os)** | [![GitHub stars](https://img.shields.io/github/stars/basedavishkar/vitalit-os?style=social&color=white)](https://github.com/basedavishkar/vitalit-os/stargazers) | Next.js, FastAPI, PostgreSQL | MIT | Modern, lightweight self-hostable clinic and hospital management dashboard |
-| **[Clinic EDC](https://github.com/clinicedc/clinicedc)** | [![GitHub stars](https://img.shields.io/github/stars/clinicedc/clinicedc?style=social&color=white)](https://github.com/clinicedc/clinicedc/stargazers) | Python, Django, PostgreSQL | GPL-3.0 | Multisite longitudinal clinical trials electronic data capture framework |
-| **[Ciyex EHR](https://github.com/ciyex-org/ciyex)** | [![GitHub stars](https://img.shields.io/github/stars/ciyex-org/ciyex?style=social&color=white)](https://github.com/ciyex-org/ciyex/stargazers) | Java 21, Spring Boot, Docker | Apache-2.0 | Multi-tenant FHIR R4-native outpatient EHR with AI assist and telemedicine |
+| **[HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)** | [![GitHub_Stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers) | TypeScript, React, PouchDB | MIT | Offline-first hospital information system for rural & low-resource clinics |
+| **[OpenEMR](https://github.com/openemr/openemr)** | [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) | PHP, JavaScript, MySQL | GPL-2.0 | Complete ONC-certified EHR, practice management, billing, and patient portal |
+| **[Medplum](https://github.com/medplum/medplum)** | [![GitHub_Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers) | TypeScript, Node.js, Postgres | Apache-2.0 | Headless FHIR-native healthcare developer platform, clinical UI & patient portal |
+| **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** | [![GitHub_Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers) | Java, Spring, Hibernate | Apache-2.0 | Reference open-source HL7 FHIR standard implementation & data integration server |
+| **[OpenMRS Core](https://github.com/openmrs/openmrs-core)** | [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers) | Java, Spring, React | MPL-2.0 | Global enterprise medical record system deployed across 40+ countries |
+| **[Open Hospital](https://github.com/informatici/openhospital)** | [![GitHub_Stars](https://img.shields.io/github/stars/informatici/openhospital?style=social&color=white)](https://github.com/informatici/openhospital/stargazers) | Java, Spring Boot, Angular | GPL-3.0 | Multi-language hospital management for outpatient, inpatient, lab, & pharmacy |
+| **[Marley Health](https://github.com/earthians/marley)** | [![GitHub_Stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers) | Python, Frappe, ERPNext | GPL-3.0 | ERP-integrated hospital management covering clinical procedures, labs, and billing |
+| **[DHIS2 Core](https://github.com/dhis2/dhis2-core)** | [![GitHub_Stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers) | Java, Spring, PostgreSQL | BSD-3-Clause | National health information management system, routine data, and disease tracker |
+| **[OHDSI Atlas](https://github.com/OHDSI/Atlas)** | [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers) | JavaScript, R, OMOP CDM | Apache-2.0 | Life sciences real-world evidence (RWE), cohort creation, and clinical trial studies |
+| **[VITALIt OS](https://github.com/basedavishkar/vitalit-os)** | [![GitHub_Stars](https://img.shields.io/github/stars/basedavishkar/vitalit-os?style=social&color=white)](https://github.com/basedavishkar/vitalit-os/stargazers) | Next.js, FastAPI, PostgreSQL | MIT | Modern, lightweight self-hostable clinic and hospital management dashboard |
+| **[Clinic EDC](https://github.com/clinicedc/clinicedc)** | [![GitHub_Stars](https://img.shields.io/github/stars/clinicedc/clinicedc?style=social&color=white)](https://github.com/clinicedc/clinicedc/stargazers) | Python, Django, PostgreSQL | GPL-3.0 | Multisite longitudinal clinical trials electronic data capture framework |
+| **[Ciyex EHR](https://github.com/ciyex-org/ciyex)** | [![GitHub_Stars](https://img.shields.io/github/stars/ciyex-org/ciyex?style=social&color=white)](https://github.com/ciyex-org/ciyex/stargazers) | Java 21, Spring Boot, Docker | Apache-2.0 | Multi-tenant FHIR R4-native outpatient EHR with AI assist and telemedicine |
 
 ---
 
 ### Detailed Open-Source Profiles
 
-#### 1. 🏥 [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)
+#### 1. 🏥 [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) [![GitHub_Stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)
 - **Description:** Designed specifically for hospitals and clinics in developing nations and low-resource environments. Features an offline-first architecture allowing uninterrupted clinical charting during connectivity blackouts.
 - **Core Modules:** Outpatient triage, patient charting, medication inventory, surgical scheduling, and lab reporting.
 
-#### 2. 📋 [OpenEMR](https://github.com/openemr/openemr) [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
+#### 2. 📋 [OpenEMR](https://github.com/openemr/openemr) [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
 - **Description:** One of the world's most widely adopted open-source EHR platforms. Officially ONC Complete Ambulatory EHR certified with global community support.
 - **Core Modules:** Fully integrated medical practice management, billing (EDI X12), patient portal, e-prescribing, clinical decision support, and FHIR API endpoints.
 
-#### 3. ⚡ [Medplum](https://github.com/medplum/medplum) [![GitHub stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)
+#### 3. ⚡ [Medplum](https://github.com/medplum/medplum) [![GitHub_Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)
 - **Description:** Next-generation headless healthcare platform delivering complete FHIR server infrastructure with React SDKs for rapidly building compliant clinical applications, patient portals, and lab integrations.
 - **Core Modules:** FHIR R4 repository, OAuth2/OIDC identity management, audit logging, bots for workflow automation, and pre-built clinical UI components.
 
-#### 4. 🔗 [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) [![GitHub stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)
+#### 4. 🔗 [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) [![GitHub_Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)
 - **Description:** The industry-standard open-source Java implementation of the HL7 FHIR specification. Used globally as the backbone for health data exchange, national health registries, and clinical repositories.
 - **Core Modules:** Complete FHIR client and server library, JPA storage layer, validation engine, terminology service, and SMART-on-FHIR security support.
 
-#### 5. 🌍 [OpenMRS Core](https://github.com/openmrs/openmrs-core) [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
+#### 5. 🌍 [OpenMRS Core](https://github.com/openmrs/openmrs-core) [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
 - **Description:** Open-source electronic medical record platform conceived to combat HIV/AIDS, tuberculosis, and malaria, now expanded into an enterprise clinical workflow system.
 - **Core Modules:** Clinical concept dictionary, patient cohort builder, encounter management, visit tracking, and REST/FHIR web services.
 
-#### 6. 🩺 [Open Hospital](https://github.com/informatici/openhospital) [![GitHub stars](https://img.shields.io/github/stars/informatici/openhospital?style=social&color=white)](https://github.com/informatici/openhospital/stargazers)
+#### 6. 🩺 [Open Hospital](https://github.com/informatici/openhospital) [![GitHub_Stars](https://img.shields.io/github/stars/informatici/openhospital?style=social&color=white)](https://github.com/informatici/openhospital/stargazers)
 - **Description:** Free software created by ISF (Informatici Senza Frontiere) to facilitate healthcare administration in community hospitals and mission clinics.
 - **Core Modules:** Inpatient admissions, outpatient consultations, pharmaceutical inventory, lab test tracking, surgical register, and billing.
 
-#### 7. 🏭 [Marley Health](https://github.com/earthians/marley) [![GitHub stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers)
+#### 7. 🏭 [Marley Health](https://github.com/earthians/marley) [![GitHub_Stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers)
 - **Description:** Built on Frappe and ERPNext, Marley bridges clinical healthcare delivery with enterprise back-office management in a single database.
 - **Core Modules:** Patient appointment booking, clinical encounters, sample collection, rehabilitation sessions, pharmacy dispensing, and general ledger accounting.
 
-#### 8. 📊 [DHIS2 Core](https://github.com/dhis2/dhis2-core) [![GitHub stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers)
+#### 8. 📊 [DHIS2 Core](https://github.com/dhis2/dhis2-core) [![GitHub_Stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers)
 - **Description:** The world's largest health management information system (HMIS) platform, deployed at national scale across 70+ low- and middle-income countries.
 - **Core Modules:** Aggregate health reporting, Tracker for individual longitudinal patient monitoring, GIS spatial mapping, and epidemiological analytics.
 
-#### 9. 🔬 [OHDSI Atlas](https://github.com/OHDSI/Atlas) [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers)
+#### 9. 🔬 [OHDSI Atlas](https://github.com/OHDSI/Atlas) [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers)
 - **Description:** Open-source analytics platform for the Observational Health Data Sciences and Informatics (OHDSI) community. Powers real-world evidence (RWE) studies across hundreds of millions of patient records.
 - **Core Modules:** Cohort definition builder, patient-level prediction, population-level effect estimation, and standardized data quality dashboards on the OMOP Common Data Model.
 
-#### 10. 🏥 [VITALIt OS](https://github.com/basedavishkar/vitalit-os) [![GitHub stars](https://img.shields.io/github/stars/basedavishkar/vitalit-os?style=social&color=white)](https://github.com/basedavishkar/vitalit-os/stargazers)
+#### 10. 🏥 [VITALIt OS](https://github.com/basedavishkar/vitalit-os) [![GitHub_Stars](https://img.shields.io/github/stars/basedavishkar/vitalit-os?style=social&color=white)](https://github.com/basedavishkar/vitalit-os/stargazers)
 - **Description:** Modern, lightweight hospital and clinic administration platform crafted to eliminate expensive proprietary software licensing.
 - **Core Modules:** Doctor/patient dashboards, appointment scheduling, inventory tracking, role-based security, and self-hosted Docker deployment.
 
-#### 11. 🧪 [Clinic EDC](https://github.com/clinicedc/clinicedc) [![GitHub stars](https://img.shields.io/github/stars/clinicedc/clinicedc?style=social&color=white)](https://github.com/clinicedc/clinicedc/stargazers)
+#### 11. 🧪 [Clinic EDC](https://github.com/clinicedc/clinicedc) [![GitHub_Stars](https://img.shields.io/github/stars/clinicedc/clinicedc?style=social&color=white)](https://github.com/clinicedc/clinicedc/stargazers)
 - **Description:** Electronic Data Capture (EDC) system purpose-built for multisite clinical trials and research epidemiological studies in partnership with Harvard T.H. Chan School of Public Health.
 - **Core Modules:** Longitudinal subject tracking, scheduled visit CRFs, adverse event (AE) reporting, lab specimen tracking, and audit log tracking.
 
-#### 12. 🩺 [Ciyex EHR](https://github.com/ciyex-org/ciyex) [![GitHub stars](https://img.shields.io/github/stars/ciyex-org/ciyex?style=social&color=white)](https://github.com/ciyex-org/ciyex/stargazers)
+#### 12. 🩺 [Ciyex EHR](https://github.com/ciyex-org/ciyex) [![GitHub_Stars](https://img.shields.io/github/stars/ciyex-org/ciyex?style=social&color=white)](https://github.com/ciyex-org/ciyex/stargazers)
 - **Description:** Modern multi-tenant clinical software engineered from the ground up for FHIR R4 interoperability, microservice deployments, and outpatient practice efficiency.
 - **Core Modules:** Encounter charting, e-signatures, telehealth video visits (Jitsi/Twilio), Azure OpenAI charting assistance, and Keycloak multi-tenancy.
 
@@ -247,7 +247,7 @@ Contributions from healthcare IT professionals, clinical informaticians, life sc
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-platform`.
-3. ✍️ **Add or refine an entry** in `README.md` adhering to the tabular structure and explicit pricing/star badge format.
+3. ✍️ **Add or refine an entry** in `README.md` adhering to the tabular structure and explicit pricing/Stars_Badge format.
 4. 🔍 **Verify facts**: Link only to official product documentation or verified GitHub repositories.
 5. 🚀 **Submit a Pull Request** with a descriptive explanation of your additions.
 
